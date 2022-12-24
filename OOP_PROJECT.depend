@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671192076 source:c:\users\chuck\documents\c++\oop_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<conio.h>
+	<cstring>
+
