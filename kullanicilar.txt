@@ -1,4 +1,4 @@
-yonetici~Mehmet Kocadag~05426685150~marksmandantus~mehmetkocadag679@gmail.com~D Blok~Mehmet6851!~MEHMET50~1/7/2001
-musteri~Mehmet Kocadag~05426685150~marksmandantus~mehmetkocadag679@gmail.com~D Blok~Mehmet6851!~MEHMET50~1/7/2001
-musteri~asd~05426685150~asd~ads@~sad~sad~~
-musteri~Memoli Kocadag~05426685150~m4rksmandantus~mehmetkocadag679@gmail.com~Aksaray~Mehmet6851.~1/7/2001~
+yonetici~Mehmet ~05555555555~marksmandantus~mehmetkocadag679@gmail.com~D Blok~SIFRE~MEHMET50~1/7/2001
+musteri~Mehmet ~05555555555~marksmandantus~mehmetkocadag679@gmail.com~D Blok~SIFRE!~MEHMET50~1/7/2001
+musteri~asd~05555555555~asd~ads@~sad~sad~~
+musteri~Memoli ~05555555555~m4rksmandantus~mehmetkocadag679@gmail.com~Merhaba~DENEME~1/7/2001~
